@@ -15,26 +15,18 @@ BlogCatalog.mat        ---- large dataset
 Flickr.mat             ---- large dataset
 
 //The properties of the datasets are summarized below.
-Dataset		#Nodes		#Edges		#Attributes		#Labels
-cornell		195		286		1703			5
-texas		195		298		1703			5
-washington	195		417		1703			5
-wisconsin	195		479		1703			5
-BlogCatalog	5196		171743		8189			6
-Flickr		7575		239738		12047			9
+Dataset		  #Nodes	#Edges	#Attributes		#Labels
+cornell		  195		  286		  1703			    5
+texas		    195		  298		  1703			    5
+washington	195		  417		  1703			    5
+wisconsin	  195		  479		  1703			    5
+BlogCatalog	5196		171743	8189			    6
+Flickr		  7575		239738	12047			    9
 
 
 
 
 INSTALLATION AND REQUIREMENT
 It is required to install the LIBSVM(https://www.csie.ntu.edu.tw/~cjlin/libsvm/) package in matlab.
-The codes have been tested in Maatlab R2016b 64bit edition.
+The codes have been tested in Matlab R2016b 64bit edition.
 
-
-
-
-CONTACT 
-
-Hongjin Diao
-Sun Yat-Sen University, P. R. China 
-diaohj3@mail2.sysu.edu.cn
