@@ -1,0 +1,2 @@
+文件名称即为对应的算法。
+其中，KMeansMain.m文件调用KMeansFunction函数以实现根据轮廓系数确定K值的功能，KMeans.m文件中的K-means算法需要指定K值。
