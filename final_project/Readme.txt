@@ -19,7 +19,7 @@ Dataset		#Nodes		#Edges		#Attributes		#Labels
 cornell		195		286		1703			5
 texas		195		298		1703			5
 washington	195		417		1703			5
-wisconsin		195		479		1703			5
+wisconsin	195		479		1703			5
 BlogCatalog	5196		171743		8189			6
 Flickr		7575		239738		12047			9
 
